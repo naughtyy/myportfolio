@@ -1,0 +1,156 @@
+#navbarNavDropdown {
+  justify-content: flex-end;
+}
+.nav-item {
+  margin-right: 100px;
+}
+.navbar-nav {
+  font-size: small;
+}
+.nav-link {
+  color: white;
+  padding: 10px;
+}
+.navbar-brand {
+  color: white;
+}
+.nav-link:hover {
+  border: 1px solid transparent !important;
+  background-color: #977ec9;
+  transition: 0.5s linear;
+}
+.bg-body-tertiary {
+  background-color: #0c0618a8 !important;
+}
+.carousel-item {
+  position: relative;
+}
+#carousel-div-h1 {
+  position: absolute;
+  top: 120px;
+  left: 60px;
+}
+#carousel-h1 {
+  text-align: start;
+  font-weight: 100;
+  font-size: 20px;
+}
+#carousel-h1-name {
+  text-align: start;
+  font-weight: 800;
+  font-size: 40px;
+}
+#carousel-h3 {
+  text-align: start;
+  font-weight: 400;
+  font-size: 30px;
+}
+.button-myportfolio {
+  position: absolute;
+  /* bottom: 250px;
+    left: 150px; */
+  margin: auto;
+  margin-left: 100px;
+  margin-top: 25px;
+}
+.btn-myportfolio {
+  color: white;
+  background-color: #dc00392e;
+}
+.btn-myportfolio:hover {
+  background-color: #dc003be3;
+}
+body {
+  /* background-color: #2c219594; */
+  background-color: #2c21;
+}
+
+.button-aboutme {
+  background-color: #d02b3c;
+  border: 1px solid transparent;
+  color: #f0fbf0;
+  width: 120px;
+  margin-right: 10px;
+}
+.button-aboutme:hover {
+  background-color: #f0fbf0;
+  color: #d02b3c;
+  border-color: #d02b3c;
+}
+.button-aboutme:active {
+  background-color: #f0fbf0 !important;
+  color: #d02b3c !important;
+  border-color: #d02b3c !important;
+}
+.list-group-item:hover {
+  color: #c9293d;
+  cursor: pointer;
+}
+.project-title {
+  color: #5f1cb1;
+}
+.app-design-title {
+  font-weight: 700;
+  color: #461894;
+}
+.btn-projects {
+  border-color: transparent;
+  font-size: small;
+  color: #5f1cb1;
+}
+.btn-projects:hover {
+  color: #d02b3b;
+  background-color: transparent;
+  border-color: transparent;
+}
+.btn-view-all {
+  border-color: transparent;
+  width: 150px;
+  height: 50px;
+  background-color: #977ec9;
+  color: white;
+}
+.btn-view-all:hover {
+  color: #977ec9;
+  background-color: white;
+  border-color: #977ec9;
+}
+.btn-view-all:active {
+  color: #977ec9 !important;
+  background-color: white !important;
+  border-color: #977ec9 !important;
+}
+.myservices {
+  border: 5px solid mediumpurple;
+}
+.project-description {
+  font-size: small;
+}
+.mycontact {
+  background-color: #977ec9;
+}
+.myform {
+  background-color: #461894;
+  /* width: 30%; */
+}
+.my-form-cells {
+  background-color: #f0fbf0;
+  color: #f0fbf0 !important;
+}
+.my-form-button {
+  color: #461894;
+  background-color: #f0fbf0;
+  font-weight: 700;
+  border: 1px #461894 solid;
+  width: 50%;
+}
+.my-form-button:hover {
+  color: #f0fbf0;
+  background-color: #461894;
+  border: 1px #f0fbf0 solid;
+}
+.my-form-button:active {
+  color: #f0fbf0 !important;
+  background-color: #461894 !important;
+  border: 1px #f0fbf0 solid !important;
+}
